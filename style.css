@@ -241,6 +241,7 @@ a:hover {
       "alias-main alias-main";
   }
   .main-section {
+    overflow-x : hidden;
     grid-template-columns: 1fr 20px 400px;
     grid-template-rows: 1fr 275px;
     grid-template-areas:
